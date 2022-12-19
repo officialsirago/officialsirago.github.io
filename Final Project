@@ -1,3 +1,22 @@
+<html>
+<body>
+<img src= "phonto.PNG"/>
+<table width="800px">
+      <tr>
+        <td align="center">
+          <a href="index.html"> <img src="home.png" /> </a>
+        </td>
+        <td align="center">
+          <a href="javascripts.html"> <img src="javascripts.png" /> </a>
+        </td>
+        <td align="center">
+          <a href="about.html"> <img src="aboutme.png" /> </a>
+          
+          <td align ="center">
+            <a href ="apps.html"> <img src="apps.png"/> </a>
+        </td>
+      </tr>
+    </table>
 <h1> Welcome to my avatar game page! </h1>
 
 <p> Here, you can play the gme me and my partner created based on Nickeldeons show Avatar: The Last Airbender. In the game, you find out what your bending abilities are! </p>
