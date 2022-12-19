@@ -1,5 +1,17 @@
 <html>
-<body>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Final Project</title>
+   
+   <style>
+      
+     body {
+        background-color: rgb(126, 145, 114);
+      }
+    </style>  
+  </head>
+  <body>
 <img src= "phonto.PNG"/>
 <table width="800px">
       <tr>
@@ -22,3 +34,6 @@
 <p> Here, you can play the gme me and my partner created based on Nickeldeons show Avatar: The Last Airbender. In the game, you find out what your bending abilities are! </p>
 
 <h2><a href="https://www.khanacademy.org/computer-programming/spin-off-of-elementavaterquiz/6371060055851008">Spin-off of "ElementAvaterQuiz"</a></h2><script src="https://www.khanacademy.org/computer-programming/spin-off-of-elementavaterquiz/6371060055851008/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script></a>
+
+ </body>
+</html>
